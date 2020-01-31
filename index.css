@@ -1,0 +1,107 @@
+body{
+    background-color:rgb(53, 54, 58);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+/* This is google's title section */
+h1{
+    margin-bottom: 40px;
+}
+
+#name-container{
+    color:white;
+    font-size: 50px;
+    margin-top: 144px;
+    text-align: center;
+}
+
+.blue a:hover {
+    color: #5180E6;
+}
+
+.red a:hover {
+    color: #D95040;
+}
+
+.yellow a:hover {
+    color: #F2BF42;
+}
+
+.green a:hover {
+    color: #58A65D;
+}
+
+
+/* This is the search bar section */
+input {
+    width: 560px;
+    height: 44px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 26px;
+    opacity: 1;
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+    padding-left: 44px;
+    border-color: rgb(43, 43, 43);
+    letter-spacing: 0.5px;
+    outline: none;
+   
+} 
+
+
+form img {
+    background-color: white;
+    position: relative;
+    display: inline-block;
+    margin: 0vw;
+    padding: 0em;
+}
+
+/* Icon's table Section*/
+
+.grid-table-container tr{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+.table {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;    
+}
+
+
+.table tbody td {
+    font: 12px Arial;
+    color: white;
+    letter-spacing: 0.5px;
+ }
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+table a:hover{
+    color: lightslategray;
+}
+
+img {
+    border-radius: 40px;
+    background-color: #202124;
+    margin: 30px;
+    padding: 15px;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
+
